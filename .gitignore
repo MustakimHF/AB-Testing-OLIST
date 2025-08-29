@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+
+# --- Data (big/raw files) ---
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.duckdb
+
+# --- Outputs ---
+outputs/plots/
+outputs/bi_exports/
+
+# --- Jupyter (if you use notebooks) ---
+.ipynb_checkpoints
+*.ipynb
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
