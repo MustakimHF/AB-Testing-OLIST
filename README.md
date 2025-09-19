@@ -99,9 +99,6 @@ python scripts/run_ab_test.py
 
 ## 📊 Example Visuals  
 
-**Conversion Rate by Group (95% CI)**  
-![CR by Group](outputs/plots/cr_by_group.png)  
-
 ### PowerBI visual
 <img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/8f093e61-098a-4f45-8878-1b0c42cf1243" />
 
