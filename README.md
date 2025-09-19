@@ -97,30 +97,13 @@ python scripts/run_ab_test.py
 
 ---
 
-### 6. Hook into BI tools  
-
-**Power BI Desktop**  
-- Import `outputs/bi_exports/*.csv`  
-- Build visuals:  
-  - KPI cards → Visitors, Conversions, CR, RPV  
-  - Bar chart → CR by Group  
-  - Line chart → Daily conversions/revenue  
-  - Matrix → Segment × Group breakdown  
-  - Slicers → Group, Segment, Date  
-
-**Tableau Public**  
-- Connect to CSVs (`groups.csv`, `daily.csv`, `segments.csv`)  
-- Build similar sheets + dashboard  
-
-**Excel**  
-- Open CSVs directly → insert PivotTables & charts  
-
----
-
 ## 📊 Example Visuals  
 
 **Conversion Rate by Group (95% CI)**  
 ![CR by Group](outputs/plots/cr_by_group.png)  
+
+### PowerBI visual
+<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/8f093e61-098a-4f45-8878-1b0c42cf1243" />
 
 ---
 
