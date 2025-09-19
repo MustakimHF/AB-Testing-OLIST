@@ -113,8 +113,6 @@ This project demonstrates:
 - **Business relevance**: conversion, ROAS, geo segmentation → common e‑commerce KPIs  
 - **Communication**: outputs are BI‑ready for stakeholders  
 
-📌 *This mirrors real workflows in marketing analytics, growth, and product data science — perfect for an internship/entry‑level portfolio.*  
-
 ---
 
 ## 🔒 Notes  
